@@ -1,0 +1,56 @@
+/*Para cambiar el fondo de la cabecera*/
+.ui-dialog .ui-widget-header
+{
+background: #207ce5;
+}
+
+
+/*para cambiar el fondo del cuadro de diálogo*/
+.ui-dialog
+{
+background: white;
+}
+
+/*Para cambiar el fondo de la cabecera*/
+.ui-dialog .ui-widget-header
+{
+background: blue;
+}
+
+/*Para cambiar el contenido de la cabecera, tamaño de fuente, color de fuente, ...*/
+.ui-dialog .ui-dialog-titlebar
+{
+color: #FFFFFF;
+font-family: arial;
+}
+
+/*Para cambiar el color de los botones del dialog*/
+.ui-button.cancelButton {
+    border: 1px solid red;
+    /*{borderColorContent}*/
+    
+    color: #FF0000;
+    /*{fcContent}*/
+    
+}
+
+
+.ui-button
+{
+background: white;
+color: black;
+font-size: 14px;
+border: solid 1px #ccc;
+}
+
+.ui-button:hover
+{
+	background: #207ce5;
+	opacity: 0.5px;
+	font-size: 14px;
+	color:white;
+	border: solid 1px #ccc;
+/*background: white;
+color: black;
+border: 1px solid yellow;*/
+}

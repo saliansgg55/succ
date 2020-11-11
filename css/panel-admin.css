@@ -1,0 +1,25 @@
+/*PANEL-ADMIN.PHP*/
+
+/* COLOR MENU DEL ARCHIVO PANEL-ADMIN.PHP */
+.menu-admin{
+	background: white;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+
+@font-face{
+    font-family: "Futura";
+    font-style: normal ;
+    font-weight: normal;
+    src: local("?"), url("fonts/glyphicons-halflings-regular.ttf") format("woff"), url("fonts/glyphicons-halflings-regular.ttf") format("truetype");
+}
+
+
+
+
+hr{
+border: #3c0461 solid 0.8px;
+}
