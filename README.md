@@ -13,6 +13,7 @@ HTML
 PHP
 MYSQL
 JQUERY
+AJAX
 
 # Hojas de Estilos: 
 CSS
